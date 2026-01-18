@@ -62,7 +62,7 @@
 ---
 
 ## Контакты
-Автор: [Ansar Askerbek](https://github.com/Ansar-Askerbek)
+Автор: [Ansar Askerbek](https://github.com/Ansar-Askerbek) <br>
 Электронная Почта: real.ansar@gmail.com
 
 ---
